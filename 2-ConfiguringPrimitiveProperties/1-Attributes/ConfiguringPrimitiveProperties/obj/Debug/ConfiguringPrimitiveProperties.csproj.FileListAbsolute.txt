@@ -1,0 +1,10 @@
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\bin\Debug\ConfiguringPrimitiveProperties.exe.config
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\bin\Debug\ConfiguringPrimitiveProperties.exe
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\bin\Debug\ConfiguringPrimitiveProperties.pdb
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\bin\Debug\EntityFramework.dll
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\bin\Debug\EntityFramework.xml
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\obj\Debug\ConfiguringPrimitiveProperties.csprojResolveAssemblyReference.cache
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\obj\Debug\ConfiguringPrimitiveProperties.exe
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\ConfiguringPrimitiveProperties\ConfiguringPrimitiveProperties\obj\Debug\ConfiguringPrimitiveProperties.pdb

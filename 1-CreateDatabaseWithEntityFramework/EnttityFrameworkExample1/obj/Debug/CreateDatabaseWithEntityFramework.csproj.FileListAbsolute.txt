@@ -1,0 +1,13 @@
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\bin\Debug\EnttityFrameworkExample1.exe.config
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\bin\Debug\EnttityFrameworkExample1.exe
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\bin\Debug\EnttityFrameworkExample1.pdb
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\bin\Debug\EntityFramework.dll
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\bin\Debug\EntityFramework.xml
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\obj\Debug\CreateDatabaseWithEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\obj\Debug\EnttityFrameworkExample1.exe
+C:\Users\ademy\onedrive\belgeler\visual studio 2013\Projects\EnttityFrameworkExample1\EnttityFrameworkExample1\obj\Debug\EnttityFrameworkExample1.pdb
+C:\Users\ademy\OneDrive\Belgeler\Visual Studio 2013\Projects\CreateDatabaseWithEntityFramework\EnttityFrameworkExample1\bin\Debug\EnttityFrameworkExample1.exe.config
+C:\Users\ademy\OneDrive\Belgeler\Visual Studio 2013\Projects\CreateDatabaseWithEntityFramework\EnttityFrameworkExample1\obj\Debug\EnttityFrameworkExample1.exe
+C:\Users\ademy\OneDrive\Belgeler\Visual Studio 2013\Projects\CreateDatabaseWithEntityFramework\EnttityFrameworkExample1\obj\Debug\EnttityFrameworkExample1.pdb
